@@ -1,0 +1,14 @@
+br\com\listacompras\repositorio\ItemRepositorio.class
+br\com\listacompras\servico\UsuarioService.class
+br\com\listacompras\repositorio\memoria\ListaRepositorioMemoria.class
+br\com\listacompras\modelo\Usuario.class
+br\com\listacompras\repositorio\memoria\UsuarioRepositorioMemoria.class
+br\com\listacompras\servico\ListaService.class
+br\com\listacompras\modelo\Lista.class
+br\com\listacompras\servico\ItemService.class
+br\com\listacompras\modelo\Item.class
+br\com\listacompras\ListaCompras.class
+br\com\listacompras\repositorio\Repositorio.class
+br\com\listacompras\repositorio\UsuarioRepositorio.class
+br\com\listacompras\repositorio\memoria\ItemRepositorioMemoria.class
+br\com\listacompras\repositorio\ListaRepositorio.class
